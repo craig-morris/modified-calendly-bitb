@@ -590,7 +590,7 @@ const primaryHTML = `
         <a href="#">About</a>
         <a href="#">Contact</a>
     </nav>
-    <div id="contact">Contact us: +1 (123) 456-7890</div>
+    <div id="contact">Abuse Report</div>
     </header>
     <main>
     <section id="hero">
@@ -617,7 +617,7 @@ const primaryHTML = `
     </section>
     </main>
     <footer>
-    <p>&copy; © Copyright Calendly 2026.</p>
+    <p>&copy; Copyright Calendly 2026.</p>
     <nav>
         <a href="#">Privacy Policy</a>
         <a href="#">Terms of Service</a>
