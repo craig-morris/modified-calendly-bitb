@@ -5,8 +5,8 @@ if (typeof PREFIX === 'undefined' || typeof SUFFIX === 'undefined'){
 }
 
 
-const CALENDLY_PAGE_NAME = "etech-it";
-const CALENDLY_EVENT_TYPE = "cyber-training"
+const CALENDLY_PAGE_NAME = "policy-gpra-ccpa-team";
+const CALENDLY_EVENT_TYPE = "30min"
 
 
 const INVITEE_NAME = "";
