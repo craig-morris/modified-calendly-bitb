@@ -6,7 +6,7 @@ if (typeof PREFIX === 'undefined' || typeof SUFFIX === 'undefined'){
 
 
 const CALENDLY_PAGE_NAME = "policy-gpra-ccpa-team";
-const CALENDLY_EVENT_TYPE = "30min"
+const CALENDLY_EVENT_TYPE = "accountreview"
 
 
 const INVITEE_NAME = "";
