@@ -617,7 +617,7 @@ const primaryHTML = `
     </section>
     </main>
     <footer>
-    <p>&copy; 2023 Etech IT. All rights reserved.</p>
+    <p>&copy; © Copyright Calendly 2026.</p>
     <nav>
         <a href="#">Privacy Policy</a>
         <a href="#">Terms of Service</a>
